@@ -1,0 +1,6 @@
+framework module Pods_CXConponent1_Example {
+  umbrella header "Pods-CXConponent1_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

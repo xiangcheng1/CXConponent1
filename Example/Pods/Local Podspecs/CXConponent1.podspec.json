@@ -1,0 +1,22 @@
+{
+  "name": "CXConponent1",
+  "version": "0.1.0",
+  "summary": "A short description of CXConponent1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiangcheng1/CXConponent1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiangcheng1": "1169579630@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/xiangcheng1/CXConponent1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CXConponent1/Classes/**/*"
+}

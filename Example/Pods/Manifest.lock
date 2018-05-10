@@ -1,0 +1,16 @@
+PODS:
+  - CXConponent1 (0.1.0)
+
+DEPENDENCIES:
+  - CXConponent1 (from `../`)
+
+EXTERNAL SOURCES:
+  CXConponent1:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CXConponent1: 157d16e43c8aef3e7fe5a6e10dd49e63bcde789d
+
+PODFILE CHECKSUM: 7f65ecf73536ce80afc1bd1276f5331127961603
+
+COCOAPODS: 1.4.0
